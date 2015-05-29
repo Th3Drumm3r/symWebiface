@@ -1,3 +1,7 @@
+content_home:
+    resource: "@ContentHomeBundle/Resources/config/routing.yml"
+    prefix:   /
+
 account_user:
     resource: "@AccountUserBundle/Resources/config/routing.yml"
     prefix:   /
