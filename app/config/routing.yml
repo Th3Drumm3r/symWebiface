@@ -1,0 +1,7 @@
+account_user:
+    resource: "@AccountUserBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
